@@ -17,7 +17,7 @@ Pythonで作った、レトロPC風のマイクロOSプロジェクトです。
 
 ## Screenshot
 
-![Python Micro OS](./screenshot.png)
+![Python Micro OS](./micro-desk-os.gif)
 
 ## Run
 
