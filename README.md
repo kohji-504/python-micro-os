@@ -7,13 +7,13 @@ Pythonで作った、レトロPC風のマイクロOSプロジェクトです。
 
 ## Features
 
-- 起動演出
-- MEMORY R/W TEST
-- コマンド入力
+- 起動演出（BOOT SEQUENCE）
+- MEMORY R/W TEST 表示
+- アセンブラ風コマンド入力
 - REBOOT演出
-- アセンブラ風UI
-- 疑似ファイルシステム
-- BASIC風コンソール
+- レトロPC風CLI画面
+- HELP / DIR などの簡易コマンド
+- 緑文字ターミナルUI
 
 ## Screenshot
 
